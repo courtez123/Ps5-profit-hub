@@ -23,7 +23,7 @@ A **free, standalone web app** packed with every legitimate way to earn cash, PS
 ---
 
 ## 🚀 How to Use
-1. **Download** ` index.html
+1. **Download** index.html
 2. **Open it** in any web browser
 3. **That's it!** — no setup, no accounts, no fees
 
