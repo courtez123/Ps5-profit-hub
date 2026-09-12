@@ -35,5 +35,5 @@ A **free, standalone web app** packed with every legitimate way to earn cash, PS
 - This is a **free community project** — no hidden costs
 
 ---
-
+courtez123.github.io
 ### 🎮 Start earning from your PS5 today!
